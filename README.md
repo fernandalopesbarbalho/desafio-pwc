@@ -8,7 +8,7 @@ Input = "Hello, World! OpenAI is amazing."
 
 Output = "amazing. is OpenAI World! Hello,"
 
-## Testes realizados e seus resultados, além do exemplo fornecido:
+### Testes realizados e seus resultados, além do exemplo fornecido:
 Input = "Augusta Ada Byron Kin, atualmente conhecida como Ada Lovelace."
 
 Output = "Lovelace. Ada como conhecida atualmente Kin, Byron Ada Augusta"
@@ -27,7 +27,7 @@ Output = "pedra uma tinha caminho do meio No"
 Input = "Hello, World!"
 
 Output = "Helo, Wrd!"
-## Testes realizados e seus resultados, além do exemplo fornecido:
+### Testes realizados e seus resultados, além do exemplo fornecido:
 Input = "América Latina."
 
 Output = "América Ltn."
@@ -70,7 +70,7 @@ Input = "hello. how are you? i'm fine, thank you."
 
 Output = "Hello. How are you? I'm fine, thank you."
 
-## Testes realizados e seus resultados, além do exemplo fornecido:
+### Testes realizados e seus resultados, além do exemplo fornecido:
 Input = "a lua é um satélite natural. plutão não é mais planeta! o sol é uma estrela."
 
 Output = "A lua é um satélite natural. Plutão não é mais planeta! O sol é uma estrela."
@@ -86,7 +86,7 @@ Input = "racecar"
 
 Output = "true"
 
-## Testes realizados e seus resultados, além do exemplo fornecido:
+### Testes realizados e seus resultados, além do exemplo fornecido:
 Input = "arara"
 
 Output = "true"
